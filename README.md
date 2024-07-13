@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Angel (Anqi Lin)
 
-![Banner Image](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
-
 I am a passionate Backend Engineer with expertise in **Golang**, **Kubernetes**, **Docker**, **Azure**, and **Node.js**. My journey in software development has been driven by a love for solving complex problems and creating efficient, scalable solutions.
 
 ## 🛠️ Technologies & Tools
